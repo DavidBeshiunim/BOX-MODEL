@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: honeydew;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tip {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(114, 114, 196);
+    background-color: honeydew;
+    height: 200px;
+    width: 200px;
+}
+
+#tip1 {
+    float: left;
+}
+
+#tip2 {
+    float: right;
+}
+
+footer {
+    background-color: honeydew;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
